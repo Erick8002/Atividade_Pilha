@@ -1,7 +1,5 @@
 package atividadePilha;
 
-import AtividadeLista.No;
-
 public class PilhaDinamica {
     private NoPilha topo;
 
