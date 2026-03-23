@@ -1,4 +1,4 @@
-package atividadePilha;
+package atividadePilha.pilhaDinamica;
 
 public class PilhaDinamica {
     private NoPilha topo;

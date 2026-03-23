@@ -1,4 +1,4 @@
-package atividadePilha;
+package atividadePilha.pilhaSimples;
 
 public class PilhaSimples {
     private int topo;

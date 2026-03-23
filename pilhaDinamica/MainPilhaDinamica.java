@@ -1,4 +1,4 @@
-package atividadePilha;
+package atividadePilha.pilhaDinamica;
 
 public class MainPilhaDinamica {
     public static void main(String[] args) {

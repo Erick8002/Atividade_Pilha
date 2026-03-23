@@ -1,4 +1,4 @@
-package atividadePilha;
+package atividadePilha.pilhaDinamica;
 
 public class NoPilha {
     String conteudo;
